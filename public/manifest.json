@@ -1,0 +1,22 @@
+{
+    "short_name": "React App",
+    "name": "Create React App Sample",
+    "icons": [
+      {
+        "src": "investment-calculator-logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "web_accessible_resources": [
+        "src/index.css",
+        "src/assets/styles.css",
+        "src/assets/locales/en/translation.json"
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
+  
